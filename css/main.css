@@ -1,0 +1,50 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+ol, ul{
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p{
+  margin: 0;
+}
+.small-img{
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+}
+.search-input{
+  font-size: 25px;
+}
+
+.menu-title{
+  font-size: 20px;
+}
+
+.top{
+  background-image: url("./../images/top-header-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 15px 15px;
+}
+
+.checkbox{
+  width: 30px;
+  height: 30px;
+}
+
+.todo-content-title{
+  font-size: 23px;
+  font-weight: 400;
+}
+.add-to-todo{
+  font-size: 20px;
+}
+.todo-box-span{
+  font-size: 20px;
+}
